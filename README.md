@@ -20,7 +20,7 @@ The orchestrator will be developed in **Golang** or **Rust**, ensuring robust pe
 
 - **Angular**: A platform for building mobile and desktop web applications.
 - **React**: A JavaScript library for creating user interfaces.
-- **Flutter ?**: A UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Flutter**: A UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
 
 #### Back-End Potential Frameworks
 
@@ -33,6 +33,11 @@ The orchestrator will be developed in **Golang** or **Rust**, ensuring robust pe
 
 - **Postgres**: An open-source relational database, notable for its extensibility and SQL compliance.
 - **Mongo**: A NoSQL database recognized for its scalability and flexibility.
+
+#### Potential configurations
+
+- **Git**: Availabality to create a git repository linked to the newly created project.
+- **Continuous Integration**: Availability to setup CI pipelines related to the chosen technology stack.
 
 ### Usage
 
